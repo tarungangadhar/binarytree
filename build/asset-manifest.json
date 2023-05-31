@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BinaryTree/static/css/main.059f545e.chunk.css",
+    "main.js": "/BinaryTree/static/js/main.cfc725d8.chunk.js",
+    "main.js.map": "/BinaryTree/static/js/main.cfc725d8.chunk.js.map",
+    "runtime-main.js": "/BinaryTree/static/js/runtime-main.b258d687.js",
+    "runtime-main.js.map": "/BinaryTree/static/js/runtime-main.b258d687.js.map",
+    "static/css/2.80f479d8.chunk.css": "/BinaryTree/static/css/2.80f479d8.chunk.css",
+    "static/js/2.5081c391.chunk.js": "/BinaryTree/static/js/2.5081c391.chunk.js",
+    "static/js/2.5081c391.chunk.js.map": "/BinaryTree/static/js/2.5081c391.chunk.js.map",
+    "index.html": "/BinaryTree/index.html",
+    "precache-manifest.f770b23231893e95f8160e206b35d5de.js": "/BinaryTree/precache-manifest.f770b23231893e95f8160e206b35d5de.js",
+    "service-worker.js": "/BinaryTree/service-worker.js",
+    "static/css/2.80f479d8.chunk.css.map": "/BinaryTree/static/css/2.80f479d8.chunk.css.map",
+    "static/css/main.059f545e.chunk.css.map": "/BinaryTree/static/css/main.059f545e.chunk.css.map",
+    "static/js/2.5081c391.chunk.js.LICENSE.txt": "/BinaryTree/static/js/2.5081c391.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b258d687.js",
+    "static/css/2.80f479d8.chunk.css",
+    "static/js/2.5081c391.chunk.js",
+    "static/css/main.059f545e.chunk.css",
+    "static/js/main.cfc725d8.chunk.js"
+  ]
+}
